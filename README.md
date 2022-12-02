@@ -23,7 +23,7 @@ RoboFriends is a React app that lets you create robot cards that are searchable.
 - Create React App
 - Tachyons
 
-#### React Packages
+#### API's
 
 - [RoboHash](https://robohash.org/ "RoboHash")
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/ "JSONPlaceholder")
